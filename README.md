@@ -1,4 +1,17 @@
 ### Hi there 👋
+My name is Chelsea, im a full stack developer in the upstate. I have a passion for web development! 
+<br>
+✨I like making websites look pretty!
+<br>
+🏳️‍⚧️Pronouns: she/her
+<br>
+🤓 My skills include: React, JavaScript, Python, and Django. 
+<br>
+🎨 Big fan of art, literature, and music!
+<br> 
+👍 I am a team player and value cooperation
+<br>
+⚡ Fun fact: Tacos are the best.  My favorite animal is a raccoon. I like playing Palidans and fighters in DnD!  
 
 <!--
 **cswebdev/cswebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
