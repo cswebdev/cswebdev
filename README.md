@@ -13,6 +13,8 @@ My name is Chelsea, im a full stack developer in the upstate. I have a passion f
 👍 I am a team player and value cooperation
 <br>
 ⚡ Fun fact: Tacos are the best.  My favorite animal is a raccoon. I like playing Palidans and fighters in DnD!  
+<br>
+👕 Check out my project Closet Swap! The coolest feature i've implimented thus far is using ClarifAI to analyze images to collect and display meta data on articles of clothing. It's super cool!
 
 <!--
 **cswebdev/cswebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
