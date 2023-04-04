@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Chelsea, im a full stack developer in the upstate. I have a passion for web development! 
 <br>
+<br>
 ✨I like making websites look pretty!
 <br>
 🏳️‍⚧️Pronouns: she/her
