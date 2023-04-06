@@ -19,7 +19,7 @@
   <br>
   Other fun facts:
   <br>
-  My favorite food has to be tacos. My favorite animal is the raccoon. Also, I like to play DnD and Magic the Gathering! My favorite classes to play are are paladins and fighters.
+  My favorite food has to be tacos. My favorite animal is the raccoon. Also, I like to play DnD and Magic the Gathering! My favorite classes to play are are paladins and fighters. In my DnD campaigns, im the most likely to start a brawl in a tavern.
 </p>
 <hr>
 <h3>My Skills:</h3>
