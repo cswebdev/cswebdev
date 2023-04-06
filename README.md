@@ -14,7 +14,7 @@
 <p>
   Pronouns: she/her
   <br>
-  I am an enthusiast of art history, literature, and music. My favorite eras of art have to be the impressionist and Art Nouveau periods. I would like to write and publish a novel one day.
+  I am an enthusiast of art history, literature, and music. My favorite eras of art have to be the Impressionist and Art Nouveau periods. I would like to write and publish a novel one day.
   <br>
   <br>
   Other fun facts:
