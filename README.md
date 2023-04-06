@@ -15,6 +15,7 @@ My name is Chelsea, im a full stack developer in the upstate. I have a passion f
 ⚡ Fun fact: Tacos are the best.  My favorite animal is a raccoon. I like playing Palidans and fighters in DnD!  
 👕 Check out my project Closet Swap. The coolest feature i've implimented thus far is using ClarifAI to analyze images to collect and display meta data on articles of clothing. It's super cool!
 
+You can find me on Linkedin here: https://www.linkedin.com/in/chelsea-snider/
 <!--
 **cswebdev/cswebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
