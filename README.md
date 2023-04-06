@@ -4,7 +4,7 @@
   </i>
 </h3>
 <p>
-  Im a jr. full stack developer in the upstate andI have a passion for web development! 
+  Im a jr. full stack developer in the upstate and I have a passion for web development! 
    <br>
   ✨I really enjoy making websites look pretty!✨
 </p>
