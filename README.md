@@ -16,9 +16,9 @@
   <br>
   I am an enthusiast of art history, literature, and music. I would like to write and publish a novel one day.
   <br>
-  Im a nerd who's an enthusiast of Marvel movies and comics. 
+  Other fun facts:
   <br>
-  Fun fact: My favorite foods are tacos. My favorite animal is a raccoon. Also, I like to play DnD! My favorite classes to play are are paladins and fighters.
+  My favorite food has to be tacos. My favorite animal is a raccoon. Also, I like to play DnD and Magic the Gathering! My favorite classes to play are are paladins and fighters.
 </p>
 <hr>
 <h3>My Skills:</h3>
