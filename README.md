@@ -1,32 +1,59 @@
-### Hi there 👋
-My name is Chelsea, im a full stack developer in the upstate. I have a passion for web development! 
-<br>
-<br>
-✨I like making websites look pretty!
-<br>
-🏳️‍⚧️Pronouns: she/her
-<br>
-🤓 My skills include: React, JavaScript, Python, and Django. 
-<br>
-🎨 Big fan of art, literature, and music!
-<br> 
-👍 I am a team player and value cooperation
-<br>
-⚡ Fun fact: Tacos are the best.  My favorite animal is a raccoon. I like playing Palidans and fighters in DnD!  
-👕 Check out my project Closet Swap. The coolest feature i've implimented thus far is using ClarifAI to analyze images to collect and display meta data on articles of clothing. It's super cool!
+<h3>
+  <i>
+  Hi there, my name is Chelsea
+  </i>
+</h3>
+<p>
+  Im a jr. full stack developer in the upstate andI have a passion for web development! 
+   <br>
+  ✨I really enjoy making websites look pretty!✨
+</p>
+<hr>
+<h3>About Me:</h3>
 
-You can find me on Linkedin here: https://www.linkedin.com/in/chelsea-snider/
-<!--
-**cswebdev/cswebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+<p>
+  Pronouns: she/her
+  <br>
+  I am an enthusiast of art history, literature, and music. I would like to write and publish a novel one day.
+  <br>
+  Im a nerd who's an enthusiast of Marvel movies and comics. 
+  <br>
+  Fun fact: My favorite foods are tacos. My favorite animal is a raccoon. Also, I like to play DnD! My favorite classes to play are are paladins and fighters.
+</p>
+<hr>
+<h3>My Skills:</h3>
+<p>
+    <h4>Front end:</h4>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>ReactJS</li>
+    <li>Python</li>
+   </ul>
+    <h4>Back end:</h4>
+  <ul>
+    <li>Django</li>
+    <li>Heroku</li>
+    <li>Database Management</li>
+    <li>RESTful APIs</li>
+  </ul>
+    <h4>Technologies used:</h4>
+  <ul>
+    <li>Boostrap</li>
+    <li>HandlebarsJS</li>
+    <li>Django rest framework</li>
+    <li>Django allauth</li>
+    <li>Pillow</li>
+    <li>ClarifAI</li>
+    <li>S3 AWS photobucket</li>
+  </ul
+</p>
+  <hr>
+  Check out my project Closet Swap! The coolest feature i've implimented thus far is using ClarifAI to analyze images in order to collect and display meta data on       articles of clothing. 
+  <br>
+  Hosted on Heroku: https://closet-swap.herokuapp.com/
+  <br>
+  Source code: https://github.com/cswebdev/ccs-final-project
+</p>
+<h4>You can find me on Linkedin here: https://www.linkedin.com/in/chelsea-snider/</h4>
