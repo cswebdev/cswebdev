@@ -53,11 +53,11 @@
   </ul
 </p>
   <hr>
-  <h3> Project highlights </h3
+  <h3> Project highlights </h3>
   Check out my project Closet Swap! The coolest feature i've implimented thus far is using ClarifAI to analyze images in order to collect and display metadata on       articles of clothing. 
   <br>
   Hosted on Heroku: https://closet-swap.herokuapp.com/
   <br>
   Source code: https://github.com/cswebdev/ccs-final-project
 </p>
-<h4>You can find me on Linkedin here: https://www.linkedin.com/in/chelsea-snider/</h4>
+<h4>You can find me on  [linkedin](https://www.linkedin.com/in/chelsea-snider/)</h4>
