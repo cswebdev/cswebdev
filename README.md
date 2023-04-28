@@ -60,4 +60,5 @@
   <br>
   Source code: https://github.com/cswebdev/ccs-final-project
 </p>
-<h4>You can find me on  [linkedin](https://www.linkedin.com/in/chelsea-snider/)</h4>
+<h3>Socials</h3>
+<h4>You can find me on linkedin here: https://www.linkedin.com/in/chelsea-snider/</h4>
