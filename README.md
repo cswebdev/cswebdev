@@ -53,6 +53,7 @@
   </ul
 </p>
   <hr>
+  <h3> Project highlights </h3
   Check out my project Closet Swap! The coolest feature i've implimented thus far is using ClarifAI to analyze images in order to collect and display metadata on       articles of clothing. 
   <br>
   Hosted on Heroku: https://closet-swap.herokuapp.com/
