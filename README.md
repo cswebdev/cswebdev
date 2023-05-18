@@ -14,7 +14,7 @@
 <p>
   I am a trans woman in my early transition. I am switching careers from the optical industry to web and software development. 
   <br>
- My journey in programming startedin high school with Visual Basic and HTML4. I don't miss only being able to use in-line styling! 
+ My journey in programming startedin high school with Visual Basic and HTML4, back when it was all inline styling.
   <br>
   Some of my other passions art history, literature, and music. My favorite eras of art have to be the Impressionist and Art Nouveau periods. I would like to write and publish a novel one day.
   <br>
