@@ -12,7 +12,7 @@
 <h3>About Me:</h3>
 
 <p>
-  I am a trans woman in my early transition. I am switching careers from the optical industry to web and software development. 
+   I am switching careers from the optical industry to web and software development. 
   <br>
  My journey in programming started in high school with Visual Basic and HTML4, back when it was all inline styling.
   <br>
