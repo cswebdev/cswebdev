@@ -103,3 +103,6 @@
 </p>
 <h3>Socials</h3>
 <h4>You can find me on linkedin here: https://www.linkedin.com/in/chelsea-snider/</h4>
+<h4>Check out my resume here!</h4>
+[Chelsea Snider - Full Stack Developer Resume.pdf](https://github.com/cswebdev/cswebdev/files/13878065/Chelsea.Snider.-.Full.Stack.Developer.Resume.pdf)
+
