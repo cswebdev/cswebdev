@@ -28,54 +28,78 @@
  
 </p>
 <hr>
-<table>
-<tr>
-  <th>Front end</th>
-  <th>Back end</th>
-  <th>Languages</th>
-  <th>Technologies</th>
-</tr>
-<tr>
-  <td>AngularJS</td>
-  <td>ReactJS</td>
-</tr>
-
-</table>
 <h3>My Skills:</h3>
+<table>
+  <tr>
+    <th>Front end</th>
+    <th>Back end</th>
+    <th>Languages</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>AngularJS</td>
+    <td>Django</td>
+    <td>Java</td>
+    <td>PostgreSQL AWS RDS</td>
+  </tr>
+  <tr>
+    <td>ReactJS</td>
+    <td>Spring Boot</td>
+    <td>JavaScript</td>
+    <td>AWS S3 bucket</td>
+  </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  <td>Python</td>
+  <td>Firebase Auth</td>
+</tr>
+</table>
+<hr>
 <p>
-    <h4>Front end:</h4>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>ReactJS</li>
-    <li>Python</li>
-   </ul>
-    <h4>Back end:</h4>
-  <ul>
-    <li>Django</li>
-    <li>Heroku</li>
-    <li>Database Management</li>
-    <li>RESTful APIs</li>
-  </ul>
-    <h4>Technologies used:</h4>
-  <ul>
-    <li>Boostrap</li>
-    <li>HandlebarsJS</li>
-    <li>Django rest framework</li>
-    <li>Django allauth</li>
-    <li>Pillow</li>
-    <li>ClarifAI</li>
-    <li>S3 AWS photobucket</li>
-  </ul
+<h3>Project Highlights:</h3>
+  <h4>Closet Swap</h4>
+  <p>
+    An application designed for the LGBT+ community to swap clothes, enhancing inclusivity and sustainability. Enriched with object recognition AI from ClarifAI for clothing descriptions to be utilized by a custom tagging system. 
+    <ul>
+      <li>
+        AWS S3 Photobucket.
+      </li>
+      <li>
+        Python Django back end and ReactJS front end.
+      </li>
+      <li>
+      Hosted on Heroku.
+      </li>
+      <li>
+        Utilizes ClarifAI API image recognition to gain insights and metrics on clothing data.
+      </li>
+    </ul>
+  Heroku link: https://closet-swap.herokuapp.com/
+  <br>
+  Github link: https://github.com/cswebdev/closet-swap
 </p>
-  <hr>
-  <h3> Project highlights </h3>
-  Check out my project Closet Swap! The coolest feature i've implimented thus far is using ClarifAI to analyze images in order to collect and display metadata on       articles of clothing. 
-  <br>
-  Hosted on Heroku: https://closet-swap.herokuapp.com/
-  <br>
-  Source code: https://github.com/cswebdev/ccs-final-project
+  <p>  
+  <h4>Medisense</h4>
+    <p>
+      An application to analyze a user's list of medications utilizing OpenAI’s API and prompt engineering to inform the user about possible negative drug interactions.
+      <ul>
+        <li>
+          PostgreSQL database hosted on AWS.
+        </li>
+         <li>
+          Spring Boot back end AngularJS front end.
+        </li>
+        <li>
+          Firebase authentication.
+        </li>
+        <li>
+          Utilizes OpenAI and National Library of Medicine API.
+        </li>
+      </ul>
+      Github Link: https://github.com/cswebdev/medisense
+    </p>
+  </p>
 </p>
 <h3>Socials</h3>
 <h4>You can find me on linkedin here: https://www.linkedin.com/in/chelsea-snider/</h4>
