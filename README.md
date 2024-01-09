@@ -28,6 +28,19 @@
  
 </p>
 <hr>
+<table>
+<tr>
+  <th>Front end</th>
+  <th>Back end</th>
+  <th>Languages</th>
+  <th>Technologies</th>
+</tr>
+<tr>
+  <td>AngularJS</td>
+  <td>ReactJS</td>
+</tr>
+
+</table>
 <h3>My Skills:</h3>
 <p>
     <h4>Front end:</h4>
