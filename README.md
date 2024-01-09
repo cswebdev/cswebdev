@@ -12,16 +12,20 @@
 <h3>About Me:</h3>
 
 <p>
-   I am switching careers from the optical industry to web and software development. 
+   I am switching careers from my previous career as an optical laboratory techncian to software engineering! 
   <br>
  My journey in programming started in high school with Visual Basic and HTML4, back when it was all inline styling.
   <br>
   Some of my other passions art history, literature, and music. My favorite eras of art have to be the Impressionist and Art Nouveau periods. I would like to write and publish a novel one day.
   <br>
-  <br>
+  
+<p>
+  <h4>
   Other fun facts:
-  <br>
-  My favorite food has to be tacos. My favorite animal is the raccoon. Also, I like to play DnD and Magic the Gathering! My favorite classes to play are are paladins and fighters. In my DnD campaigns, im the most likely to start a brawl in a tavern.
+  </h4>
+  My favorite food has to be tacos. My favorite animal is the raccoon. Also, I like to play DnD and Magic the Gathering! My favorite classes to play are are paladins and fighters. In my DnD campaigns, im the most likely to start a brawl in a tavern  
+</p>
+ 
 </p>
 <hr>
 <h3>My Skills:</h3>
