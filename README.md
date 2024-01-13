@@ -1,11 +1,11 @@
-<h2>
-  Hi there, my name is Chelsea]
-</h2>
-<p>
+<div>
+<h1>
+  Hi there, my name is Chelsea
+</h1> 
   Im a full stack developer in the upstate and I have a passion for web development! 
    <br>
   ✨I really enjoy making websites look pretty!✨
-</p>
+</div>
 <hr>
 <h3>About Me:</h3>
 
