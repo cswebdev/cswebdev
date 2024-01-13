@@ -1,8 +1,6 @@
-<h1>
- 
-  Hi there, my name is Chelsea
-
-</h1>
+<h2>
+  Hi there, my name is Chelsea]
+</h2>
 <p>
   Im a full stack developer in the upstate and I have a passion for web development! 
    <br>
