@@ -1,8 +1,8 @@
-<h3>
-  <i>
+<h1>
+ 
   Hi there, my name is Chelsea
-  </i>
-</h3>
+
+</h1>
 <p>
   Im a full stack developer in the upstate and I have a passion for web development! 
    <br>
