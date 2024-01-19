@@ -10,9 +10,9 @@
 <h3>About Me:</h3>
 
 <p>
-   I am switching careers from my previous career as an optical laboratory techncian to software engineering! 
+   I am switching careers from my previous career as an optical laboratory technician to software engineering! 
   <br>
- My journey in programming started in high school with Visual Basic and HTML4, back when it was all inline styling.
+  My journey in programming started in high school with Visual Basic and HTML4, back when it was all inline styling.
   <br>
   Some of my other passions art history, literature, and music. My favorite eras of art have to be the Impressionist and Art Nouveau periods. I would like to write and publish a novel one day.
   <br>
