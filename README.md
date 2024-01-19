@@ -2,7 +2,7 @@
 <h1>
   Hi there, my name is Chelsea
 </h1> 
-  Im a full stack developer in the upstate and I have a passion for web development! 
+  Im a full stack developer in upstate, SC and I have a passion for web development! 
    <br>
   ✨I really enjoy making websites look pretty!✨
 </div>
