@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Chelsea Snider<br>
+# 👋 Hi there! I'm Christian Snider<br>
 🔧 Full Stack Developer | Upstate, SC<br><br>🌱 Currently Learning:<br>I'm diving into NextJS, I've been wanting to get better at ReactJS, TypeScript, and improving my back-end skills! Always eager to improve my skills and explore new tools.<br><br>🔭 What I'm Working On:<br>Building accessible, user centered websites with a strong focus on front-end development — utilizing my background in the optical industry to leverage my knowledge for front-end development, where clarity, detail, and accessibility is essential.<br><br>💡 About Me:<br>I’m a career changer from the optical industry, transitioning into software engineering to turn my passion for web development into a profession. My coding journey began in high school with Visual Basic and HTML4 (remember inline styling days?), and it’s been an exciting ride ever since!<br><br>⚡ Fun Facts:<br>Favorite food? Tacos, hands down 🌮<br>Favorite animal? Raccoons—they’re clever and cute! 🦝<br>I'm also a fan of music across many genres and love discovering new bands.
 
 
